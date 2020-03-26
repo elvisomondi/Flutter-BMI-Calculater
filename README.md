@@ -1,5 +1,5 @@
 
-## BMI Calculator 💪Using Flutter
+## BMI Calculator Using Flutter
 
 Since the "work from home" policy was adopted because of COVID-19, I've been getting some extra time to learn flutter and just finished working on my first app, a BMI Calculator to help me monitor my ever-increasing BMI! 
 
